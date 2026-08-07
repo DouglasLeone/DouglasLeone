@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td width="180" valign="top">
-  <img src="https://github.com/DouglasLeone.png" width="160" style="border-radius:8px" alt="Foto de perfil"/>
+  <img src="https://github.com/DouglasLeone.png" width="160" style="border-radius:50%" alt="Foto de perfil"/>
 </td>
 <td valign="top">
 
@@ -37,32 +37,21 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DouglasLeone&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-</td>
-<td width="50%" valign="top">
-
-<table width="100%" height="100%" style="background:#1e1f29;border:1px solid #44475a;border-radius:8px;">
-<tr><td align="center" style="padding:24px;font-family:'JetBrains Mono',monospace;color:#f8f8f2;">
-<br/><br/>
+<table style="background:#1e1f29;border:1px solid #44475a;border-radius:8px;max-width:500px;">
+<tr><td align="center" style="padding:20px;font-family:'JetBrains Mono',monospace;color:#f8f8f2;">
 
 *"The purpose of computing is insight, not numbers."*
 
-<br/><br/>
+<br/>
 
 **— Richard Hamming**
 
-<br/><br/>
 </td></tr>
 </table>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -90,3 +79,5 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
 <div align="center">
   <img src="https://github.com/DouglasLeone/DouglasLeone/blob/snake-output/snake.svg?raw=true" alt="Snake animation" />
 </div>
+
+<sub> Aprendizado contínuo é a chave! </sub>
