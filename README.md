@@ -41,7 +41,7 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DouglasLeone&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github.com/DouglasLeone/DouglasLeone/blob/stats-output/stats.svg?raw=true" alt="GitHub Stats"/>
 
 </td>
 <td width="50%" valign="top">
@@ -88,5 +88,5 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DouglasLeone/DouglasLeone/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/DouglasLeone/DouglasLeone/blob/snake-output/snake.svg?raw=true" alt="Snake animation" />
 </div>
