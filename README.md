@@ -1,6 +1,6 @@
 <div align="center">
 
-# Douglas Leone
+# Douglas Leone 👨‍💻
 <sub>@DouglasLeone · Piripiri, PI</sub>
 
 </div>
@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td width="180" valign="top">
-  <img src="https://github.com/DouglasLeone.png" width="160" style="border-radius:50%" alt="Foto de perfil"/>
+  <img src="https://images.weserv.nl/?url=github.com/DouglasLeone.png&mask=circle&w=160&h=160" width="160" alt="Foto de perfil"/>
 </td>
 <td valign="top">
 
@@ -80,4 +80,6 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
   <img src="https://github.com/DouglasLeone/DouglasLeone/blob/snake-output/snake.svg?raw=true" alt="Snake animation" />
 </div>
 
-<sub> Aprendizado contínuo é a chave! </sub>
+<div align="center">
+<sub> Aprendizado contínuo é a chave! 🔑🛠 </sub>
+</div>
