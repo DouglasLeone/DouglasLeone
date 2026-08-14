@@ -1,7 +1,5 @@
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DouglasLeone.DouglasLeone)
-
 # Douglas Leone 👨‍💻
 
 <sub>@DouglasLeone · Piripiri, PI</sub>
@@ -54,8 +52,8 @@
 <div align="center">
 
 <a href="https://github.com/DouglasLeone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasLeone&show_icons=true&theme=dracula&hide_border=true&bg_color=1e1f29" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLeone&layout=compact&theme=dracula&hide_border=true&bg_color=1e1f29" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=DouglasLeone&show_icons=true&theme=dracula&hide_border=true&bg_color=1e1f29" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DouglasLeone&layout=compact&theme=dracula&hide_border=true&bg_color=1e1f29" alt="Top Languages"/>
 </a>
 
 </div>
