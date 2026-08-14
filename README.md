@@ -1,30 +1,30 @@
 <div align="center">
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DouglasLeone.DouglasLeone)
+
 # Douglas Leone 👨‍💻
+
 <sub>@DouglasLeone · Piripiri, PI</sub>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="180" valign="top">
-  <img src="https://images.weserv.nl/?url=github.com/DouglasLeone.png&mask=circle&w=160&h=160" width="160" alt="Foto de perfil"/>
-</td>
-<td valign="top">
+## 🎓 Sobre mim
 
-Graduando em Análise e Desenvolvimento de Sistemas.
+<div align="center">
 
-Desenvolvedor Full Stack com foco em TypeScript, C#, React, React Native e Node.js.
+| | |
+|---|---|
+| 🎓 | Graduando em **Análise e Desenvolvimento de Sistemas** |
+| 💻 | Desenvolvedor **Full Stack** com foco em TypeScript, C#, React, React Native e Node.js |
+| 🤖 | Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e utilizando **IA** para resolver problemas reais |
 
-Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e utilizando IA para resolver problemas reais.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
+## 🛠️ Stack
 
 <div align="center">
 
@@ -37,32 +37,32 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
 
 <br/>
 
+## 💬 Frase
+
 <div align="center">
 
-<table style="background:#1e1f29;border:1px solid #44475a;border-radius:8px;max-width:500px;">
-<tr><td align="center" style="padding:20px;font-family:'JetBrains Mono',monospace;color:#f8f8f2;">
-
-*"The purpose of computing is insight, not numbers."*
-
-<br/>
-
-**— Richard Hamming**
-
-</td></tr>
-</table>
+> *"The purpose of computing is insight, not numbers."*
+>
+> **— Richard Hamming**
 
 </div>
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasLeone)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-leone-713a94376/)
+<a href="https://github.com/DouglasLeone">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasLeone&show_icons=true&theme=dracula&hide_border=true&bg_color=1e1f29" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLeone&layout=compact&theme=dracula&hide_border=true&bg_color=1e1f29" alt="Top Languages"/>
+</a>
 
 </div>
 
 <br/>
+
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -73,7 +73,16 @@ Construindo aplicações escaláveis, aplicando boas práticas de arquitetura e 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/DouglasLeone/DouglasLeone/blob/snake-output/snake.svg?raw=true" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DouglasLeone/DouglasLeone/snake-output/snake.svg" alt="Snake animation" />
+</div>
+
+## 📬 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasLeone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-leone-713a94376/)
+
 </div>
 
 <div align="center">
